@@ -44,6 +44,7 @@ while (curr_yr <= end_year):
         curr_yr += 1
         continue
 
+    ## open the CSV to process
 
 
     curr_yr += 1
